@@ -1,17 +1,14 @@
 {
-    "name": "pycharm",
-    "displayName": "PyCharm Theme",
-    "description": "Pycharm's Darcula inspired set of themes for VSCode",
-    "publisher": "nicohlr",
-    "version": "0.0.10",
+    "name": "lua-eclipse",
+    "displayName": "Lua Eclipse Theme",
+    "description": "A dark pastel theme for Lua.",
+    "publisher": "emilrueh",
+    "version": "0.1.0",
     "license": "MIT",
     "icon": "icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/nicohlr/vscode-pycharm-theme"
-    },
-    "bugs": {
-        "url": "https://github.com/nicohlr/vscode-theme-harmony/issues"
+        "url": "https://github.com/emilrueh/lua-vsc-theme"
     },
     "engines": {
         "vscode": "^1.52.0"
@@ -22,39 +19,21 @@
     "contributes": {
         "themes": [
             {
-                "label": "Pycharm Original Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/pycharm-original-color-theme.json"
-            },
-            {
-                "label": "PyCharm Dark Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/pycharm-dark-color-theme.json"
-            },
-            {
-                "label": "PyCharm Night Theme",
+                "label": "Lua Eclipse",
                 "uiTheme": "vs-dark",
                 "path": "./themes/pycharm-night-color-theme.json"
-            },
-            {
-                "label": "PyCharm Dark+ Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/pycharm-darkplus-color-theme.json"
             }
         ]
     },
     "keywords": [
+        "lua",
+        "love",
+        "löve",
+        "love2d",
+        "lovr",
+        "lövr",
         "theme",
         "dark",
-        "pycharm",
-        "darcula",
-        "jetbrains"
-    ],
-    "badges": [
-		{
-			"url": "https://vsmarketplacebadge.apphb.com/version/nicohlr.pycharm.svg",
-			"href": "https://marketplace.visualstudio.com/items/nicohlr.pycharm",
-			"description": "Extension version"
-        }
+        "night"
     ]
 }
