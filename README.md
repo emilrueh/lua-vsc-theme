@@ -1,4 +1,4 @@
-Minimal Lua theme for Visual Studio Code with pastel colors on a dark background including JSON support.
+Minimal Lua theme for Visual Studio Code with pastel colors on a dark background with JSON support.
 
 ![lua_eclipse-vsc_theme-screenshot](https://raw.githubusercontent.com/emilrueh/lua-vsc-theme/refs/heads/main/screenshots/lua-eclipse.png)
 
