@@ -21,7 +21,7 @@
             {
                 "label": "Lua Eclipse",
                 "uiTheme": "vs-dark",
-                "path": "./themes/pycharm-night-color-theme.json"
+                "path": "./themes/lua-eclipse-color-theme.json"
             }
         ]
     },
