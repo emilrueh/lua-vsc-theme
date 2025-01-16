@@ -2,7 +2,7 @@ Minimal Lua theme for Visual Studio Code with pastel colors on a dark background
 
 ## Important:
 
-If the theme does not display correctly ensure your VSC `settings.json` disables the Lua semantic highlighting!
+If the theme does not display correctly ensure your VSC `settings.json` disables Lua semantic highlighting!
 
 ```json
 "[lua]": {
