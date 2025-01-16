@@ -168,6 +168,7 @@
             "scope": [
                 "string.lua",
                 "string.quoted.double.lua",
+                "string.quoted.single.lua",
                 "punctuation.definition.string.begin.lua",
                 "punctuation.definition.string.end.lua"
             ],
