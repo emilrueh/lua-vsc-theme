@@ -3,7 +3,7 @@
     "displayName": "Lua Eclipse Theme",
     "description": "A dark pastel theme for Lua with JSON support.",
     "publisher": "emilrueh",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "license": "MIT",
     "icon": "icon.png",
     "repository": {
