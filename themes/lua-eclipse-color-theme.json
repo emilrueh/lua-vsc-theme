@@ -170,7 +170,8 @@
                 "string.quoted.double.lua",
                 "string.quoted.single.lua",
                 "punctuation.definition.string.begin.lua",
-                "punctuation.definition.string.end.lua"
+                "punctuation.definition.string.end.lua",
+                "string.quoted.other.multiline.lua"
             ],
             "settings": {
                 "foreground": "#729369"
